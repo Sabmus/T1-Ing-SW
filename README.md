@@ -1,6 +1,3 @@
-T1-Ing-SW
-========
-
 #Reseña de League of Legends
 ##Hecho por: Simón Muñoz Saavedra
 ###Ing. de Software 2012
